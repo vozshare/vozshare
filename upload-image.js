@@ -1,4 +1,4 @@
-/* Imgur Upload Script - Truong Blogger*/
+/* Imgur Upload Script - vozshare.com*/
 ! function(t, e) {
     "use strict";
     "function" == typeof define && define.amd ? define([], e) : "object" == typeof exports ? module.exports = e() : t.Imgur = e()
