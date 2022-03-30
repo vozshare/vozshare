@@ -101,8 +101,8 @@ code:before{counter-increment:line-numbers;content:counter(line-numbers);display
 .view-wrap:hover .view-control{opacity:1}
 .view-control{position:absolute;right:1px;top:5px;z-index:10;opacity:0;transition:opacity 200ms}
 .view-control .btn{border-radius: 4px;display:block;background:#000;border:0 none;box-shadow:initial;border-radius:0;cursor:pointer;width:40px;height:40px;padding:0;line-height:40px;transition:background 200ms;text-align:center;float:right}
-.view-control .btn:hover{background:#444}
-.view-control .btn:active{background:#222}
+.view-control .btn:hover{background:#d0d0d0}
+.view-control .btn:active{background:#d0d0d0}
 .view-control .btn .btn-icon{width:16px;height:16px;vertical-align:middle}
 #copyjs.copied{background:#b5e853}
 #copyjs.selected{background:#ff2323}
