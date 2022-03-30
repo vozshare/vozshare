@@ -1,5 +1,5 @@
 function get_url(){  
-var safe_redirect = "https://www.truongblogger.top/p/ch.html?id=";
+var safe_redirect = "https://www.vozshare.com/p/go-link.html?id=";
 var input = document.getElementById("input").value;
 var output = document.getElementById("output");
 var copy = document.getElementById("copy");
