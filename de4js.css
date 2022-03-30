@@ -1,5 +1,5 @@
 .wrap{margin: 20px 0;}
-.code-outjava{background: #151515;padding: 15px;border-radius: 5px;margin: 0 0 20px;}
+.code-outjava{background: #f6f7f8;padding: 15px;border-radius: 5px;margin: 0 0 20px;}
 .highlight{color:#d0d0d0}
 .highlight table td{padding:5px}
 .highlight table pre{margin:0}
@@ -60,19 +60,19 @@ hr{height:0;border:0;border-bottom:1px dashed #b5e853;color:#b5e853}
 .magic-radio:checked+label:before,.magic-checkbox:checked+label:before{animation-name:none}
 .magic-radio:checked+label:after,.magic-checkbox:checked+label:after{display:block}
 .magic-radio+label:before{border-radius:50%}
-.magic-radio+label:after{top:7px;left:7px;width:8px;height:8px;border-radius:50%;background:#b5e853}
-.magic-radio:checked+label:before{border:1px solid #b5e853}
+.magic-radio+label:after{top:7px;left:7px;width:8px;height:8px;border-radius:50%;background:#ff6f3a}
+.magic-radio:checked+label:before{1px solid #ff6f3a}
 .magic-radio:checked[disabled]+label:before{border:1px solid #effada}
 .magic-radio:checked[disabled]+label:after{background:#effada}
 .magic-checkbox+label:before{border-radius:3px}
 .magic-checkbox+label:after{top:2px;left:7px;box-sizing:border-box;width:6px;height:12px;transform:rotate(45deg);border-width:2px;border-style:solid;border-color:#fff;border-top:0;border-left:0}
 .magic-checkbox:checked+label:before{border:#b5e853;background:#b5e853}
 .magic-checkbox:checked[disabled]+label:before{border:#effada;background:#effada}
-.content{box-sizing:border-box;background:rgba(0,0,0,0.9);color:#eaeaea;display:block;width:100%!important;padding:.5em;border:1px solid rgba(255,255,255,0.15);resize:vertical}
+.content{box-sizing:border-box;background:#d0d0d0;color:#eaeaea;display:block;width:100%!important;padding:.5em;border:1px solid rgba(255,255,255,0.15);resize:vertical}
 #output{display:none}
 .config{font-size:smaller;color:#595656}
 .config input{margin-right:4px;vertical-align:middle}
-.config input:checked+label{color:#eaeaea}
+.config input:checked+label{color:#ff6f3a}
 .config label{display:inline-block;margin:.5em}
 .center{text-align:center;margin:20px auto 0}
 .btn:active,.btn:focus,.btn:hover{outline:0 none}
